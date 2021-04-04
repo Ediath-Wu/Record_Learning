@@ -38,7 +38,7 @@
   - - - -
   * ### 2017
   * [2017 广州 Gdevops 峰会 ](blog/4article/gz-GDevOps.2017.md)
-  * [DevOps时代的文档（编写中）](blog/4article/docs-mdwiki.md)
+  * [DevOps时代的文档（编写中）](blog/4article/docs-mdwiki.md)zsd
   - - - -
   * ### 读书笔记（外链）
   * [许宜铭《活出自己》读书笔记](http://www.jianshu.com/p/59d84493a3ed)
@@ -64,7 +64,6 @@
   - - - -
   * ### 敏捷实践
   * [2016-Ninetowns-实践日记](blog/0learn/2016-Ninetowns-实践日记.md)
-  * [2016-Ninetowns 我的KanBan Leangoo 内训资料](blog/0learn/2016-Ninetowns-我的KanBan&Leangoo 内训资料.pdf) 
   * [2016-Ninetowns-从问题出发-我的内部分享](blog/0learn/2016-9-Ninetowns-从问题出发-我的内部分享.md) 
   - - - -
   * ### 心理学
