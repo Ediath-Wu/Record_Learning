@@ -7,9 +7,9 @@
 
 ------------------------------------------------------------------------------------------------
 ## 2020年 学习记录
-  * [假装有东西](blog/article/MDWiki.md)
-  * [假装有东西](blog/article/MDWiki.md)
-  * [假装有东西](blog/article/MDWiki.md)
+  * [假装有东西](blog/article/MDWiKi.md)
+  * [假装有东西](blog/article/MDWiKi.md)
+  * [假装有东西](blog/article/MDWiKi.md)
 ------------------------------------------------------------------------------------------------
 
   [My Github](https://github.com/ediath-wu)
