@@ -38,7 +38,7 @@
   - - - -
   * ### 2017
   * [2017 广州 Gdevops 峰会 ](blog/4article/gz-GDevOps.2017.md)
-  * [DevOps时代的文档（编写中）](blog/4article/docs-mdwiki.md)zsd
+  * [DevOps时代的文档（编写中）](blog/4article/docs-mdwiki.md)
   - - - -
   * ### 读书笔记（外链）
   * [许宜铭《活出自己》读书笔记](http://www.jianshu.com/p/59d84493a3ed)
@@ -95,20 +95,14 @@
   
 [游戏]()
 
-  * [xbox One 游戏主机的一切](blog/3games/xbox1s.md)  
-  * [串流游戏方案](blog/3games/streamgame.md)
-  * [记录一些喜欢的游戏](blog/3games/like-games.md)
-  * [xbox360 主机游戏](blog/3games/xbox360.md)  
+  * [无](blog/games/why.md)  
 
 
 [关于我]()
   
   * [我的GitHub](https://github.com/Ediath-Wu)
-  * [我的GitHub](https://github.com/Ediath-Wu)
 
-[gimmick:themechooser](选择皮肤)
-
-[在线编辑](http://prose.io/#Ediath-Wu/Record_Learning)
+<!-- [在线编辑](http://prose.io/#Ediath-Wu/Record_Learning) -->
 [查看本站源码](https://github.com/ediath-wu/record-learning)
 
 <!--
