@@ -104,6 +104,7 @@
 [关于我]()
   
   * [我的GitHub](https://github.com/Ediath-Wu)
+  * [我的GitHub](https://github.com/Ediath-Wu)
 
 [gimmick:themechooser](选择皮肤)
 
