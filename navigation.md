@@ -109,7 +109,7 @@
 [gimmick:themechooser](选择皮肤)
 
 [在线编辑](http://prose.io/#Ediath-Wu/Record_Learning)
-[查看本站源码](https://github.com/liminany/m/)
+[查看本站源码](https://github.com/ediath-wu/record-learning)
 
 <!--
 [gimmick:Disqus](limin-mblogs)
