@@ -1,4 +1,4 @@
-#liminany
+#Ediath
 
 <!--
   -- Default theme
@@ -15,7 +15,7 @@
   
 -->
 
-[gimmick:theme](flatly)
+[gimmick:theme](bootstrap)
 
 [原创]()
 
