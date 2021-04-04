@@ -30,6 +30,8 @@
   * [假装有东西](blog/article/MDWiKi.md)
 ------------------------------------------------------------------------------------------------
 
-  [My Github](https://github.com/ediath-wu)
-   
-  *最后更新时间：2021年4月4*
+
+
+    [My Github](https://github.com/ediath-wu)
+
+  *2021年 4月4日*
