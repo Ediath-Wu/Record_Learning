@@ -44,7 +44,7 @@
   * ###  学习笔记
   * [Python进阶](https://eastlakeside.gitbook.io/interpy-zh)
   * [Python3-cookbook](https://python3-cookbook.readthedocs.io/zh_CN)
-  * [git tfvc tools](blog/0learn/note-work/git-tfvc-tools.md)
+  * [Python-Guide-CN](https://pythonguidecn.readthedocs.io/zh/)
   * [2017年笔记](blog/0learn/note-work/2017.md)
   * [2016年的公开课笔记](blog/0learn/2016年的公开课笔记.md)
   * [2016年笔记](blog/0learn/note-work/2016.md) 
