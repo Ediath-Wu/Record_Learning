@@ -15,7 +15,7 @@
   
 -->
 
-[gimmick:theme](yeti)
+[gimmick:theme]()
 
 [原创]()
 
@@ -41,8 +41,8 @@
 
 [笔记]()
 
-  * ###  工作笔记
- * [tfs-db-datasize-analysis](blog/0learn/note-work/tfs%2Ddb%2Ddatasize%2Danalysis.md)
+  * ###  学习笔记
+  * [Python进阶](https://eastlakeside.gitbook.io/interpy-zh)
   * [2018 年笔记](blog/0learn/note-work/2018.md)
   * [git tfvc tools](blog/0learn/note-work/git-tfvc-tools.md)
   * [2017年笔记](blog/0learn/note-work/2017.md)
