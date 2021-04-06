@@ -42,20 +42,10 @@
 [笔记]()
 
   * ###  学习笔记
-<<<<<<< Updated upstream
-  * [Python进阶](https://eastlakeside.gitbook.io/interpy-zh/latest/)
-  * [Python3-cookbook](https://python3-cookbook.readthedocs.io/zh_CN/latest/)
-  * [Python-Guide-CN](https://pythonguidecn.readthedocs.io/zh/latest/)
-  * [2017年笔记](blog/0learn/note-work/2017.md)
-=======
   * [Python进阶](https://eastlakeside.gitbook.io/interpy-zh)
   * [Python3-cookbook](https://python3-cookbook.readthedocs.io/zh_CN)
   * [Python-Guide-CN](https://pythonguidecn.readthedocs.io/zh/)
   * [图说设计模式](https://design-patterns.readthedocs.io/zh_CN)
->>>>>>> Stashed changes
-  * [2016年的公开课笔记](blog/0learn/2016年的公开课笔记.md)
-  * [2016年笔记](blog/0learn/note-work/2016.md) 
-  * [英语单词](blog/0learn/english/words-2017.md)
   - - - -
   * ### Acp培训   
   * [光环Act 培训笔记](blog/0learn/2016-6-aura-acp-training.md)
@@ -69,7 +59,7 @@
   * [人生十项 模板](blog/1life/人生十项-模板.md)
   * [关系实践（两性关系、夫妻关系、亲子关系、原生家庭）](blog/1life/relationship.md)
   
-[Some Good Arctle]()
+[Some Good Arctles]()
 
   * ### 生活中的个人笔记
   * [2018年笔记](blog/0learn/note-personal/2017.md) 
@@ -81,7 +71,7 @@
   * [影视列表](blog/1life/movie.md)
   * [工具或小技巧](blog/1life/tools.md)
 
-[读书]()
+[Books]()
 
   * ### 书籍
   * [新书列表、读书计划、在读书籍、已经读书籍](blog/2book/books.md)
@@ -94,7 +84,7 @@
   
 [游戏]()
 
-  * [无](blog/games/why.md)  
+  * [看这里](blog/games/why.md)  
 
 
 [关于我]()
@@ -102,7 +92,7 @@
   * [我的GitHub](https://github.com/Ediath-Wu)
 
 <!-- [在线编辑](http://prose.io/#Ediath-Wu/Record_Learning) -->
-[查看本站源码](https://github.com/ediath-wu/record-learning)
+<!-- [查看本站源码](https://github.com/ediath-wu/record-learning) -->
 
 <!--
 [gimmick:Disqus](limin-mblogs)
