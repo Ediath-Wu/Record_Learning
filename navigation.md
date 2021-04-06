@@ -42,10 +42,17 @@
 [笔记]()
 
   * ###  学习笔记
+<<<<<<< Updated upstream
   * [Python进阶](https://eastlakeside.gitbook.io/interpy-zh/latest/)
   * [Python3-cookbook](https://python3-cookbook.readthedocs.io/zh_CN/latest/)
   * [Python-Guide-CN](https://pythonguidecn.readthedocs.io/zh/latest/)
   * [2017年笔记](blog/0learn/note-work/2017.md)
+=======
+  * [Python进阶](https://eastlakeside.gitbook.io/interpy-zh)
+  * [Python3-cookbook](https://python3-cookbook.readthedocs.io/zh_CN)
+  * [Python-Guide-CN](https://pythonguidecn.readthedocs.io/zh/)
+  * [图说设计模式](https://design-patterns.readthedocs.io/zh_CN)
+>>>>>>> Stashed changes
   * [2016年的公开课笔记](blog/0learn/2016年的公开课笔记.md)
   * [2016年笔记](blog/0learn/note-work/2016.md) 
   * [英语单词](blog/0learn/english/words-2017.md)
