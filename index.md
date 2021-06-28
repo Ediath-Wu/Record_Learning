@@ -6,6 +6,8 @@
 ## 2021年 学习记录
   ### 2021 年度总结
   * [Click Here!](blog/article/2021.md)
+  ### 6月
+  * [哈工大 单片机视频的学习](blog/article/8051.md)
   ### 4月
   * [[2021.4.6] FPGA到底是什么？](https://zhuanlan.zhihu.com/p/53332657)
   * [[2021.4.5] Meash 学习(PHY6212芯片)](blog/article/phy6212.md)
