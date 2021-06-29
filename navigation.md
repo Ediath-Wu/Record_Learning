@@ -19,14 +19,6 @@
 
 [原创]()
 
-  * ### 2018（本站）
-  - - - -
-  * ### 微信公众号 和 DevOpsHub.cn
-  - - - -
-  * ### 其他
-  * [ 精益和敏捷软件开发.ppt （于2015年整理）](http://pan.baidu.com/s/1hszy4OO)
-  * [人生十项 模板](blog/1life/人生十项-模板.md)
-  * [关系实践（两性关系、夫妻关系、亲子关系、原生家庭）](blog/1life/relationship.md)
   - - - -
   * ### 2017
   * [2017 广州 Gdevops 峰会 ](blog/4article/gz-GDevOps.2017.md)
